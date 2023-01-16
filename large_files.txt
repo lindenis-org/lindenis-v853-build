@@ -1,0 +1,7 @@
+./lichee/melis-v3.0/tools/xcompiler/on_windows/gcc-arm-9.2-2019.12-mingw-w64-i686-arm-none-eabi.tar.xz
+./lichee/melis-v3.0/tools/xcompiler/on_linux/compiler/gcc-arm-melis-eabi-9-2020-q2-update-x86_64-linux.tar.bz2
+./lichee/melis-v3.0/tools/xcompiler/on_linux/compiler/riscv64-elf-gcc-thead_20200528.tar.gz
+./lichee/melis-v3.0/tools/xcompiler/on_linux/compiler/riscv64-elf-x86_64-20201104.tar.gz
+./lichee/brandy-2.0/tools/toolchain/riscv64-linux-x86_64-20200528.tar.xz
+./lichee/brandy-2.0/tools/toolchain/riscv64-glibc-gcc-thead_20200702.tar.xz
+./lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi.tar.xz
